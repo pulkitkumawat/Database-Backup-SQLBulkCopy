@@ -1,0 +1,2 @@
+2020-09-09 17:36:11.0322|DEBUG|BackupDB.Program|Starting up
+2020-09-09 17:36:11.0932|DEBUG|BackupDB.Program|Shutting down

@@ -1,0 +1,20 @@
+2020-09-10 10:05:47,365 [1] ERROR BackupDB.Program [(null)] - Cannot open server 'orc-azu-dev-sql01' requested by the login. Client with IP address '42.107.232.167' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+2020-09-10 10:07:12,606 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : GlovalShippingLogging
+2020-09-10 10:07:17,930 [1] ERROR BackupDB.Program [(null)] - Cannot open server 'orc-azu-dev-sql01' requested by the login. Client with IP address '42.107.232.167' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+2020-09-10 10:09:27,609 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : GlovalShippingLogging
+2020-09-10 10:09:36,396 [1] ERROR BackupDB.Program [(null)] - Cannot open server 'orc-azu-dev-sql01' requested by the login. Client with IP address '42.107.232.167' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+2020-09-10 10:14:35,850 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : GlovalShippingLogging
+2020-09-10 10:15:13,315 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : GlovalShippingLogging
+2020-09-10 10:15:18,395 [1] INFO  BackupDB.Program [(null)] - Backup of GlovalShippingLogging started on 2020-09-10 04:45:16.990
+2020-09-10 10:15:18,971 [1] INFO  BackupDB.Program [(null)] - No need to backup GlovalShippingLogging
+2020-09-10 10:15:18,972 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : GlovalShippingLogging
+2020-09-10 10:16:06,675 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : GlovalShippingLogging
+2020-09-10 10:16:10,917 [1] INFO  BackupDB.Program [(null)] - Backup of GlovalShippingLogging started on 2020-09-10 04:46:09.480
+2020-09-10 10:16:11,735 [1] INFO  BackupDB.Program [(null)] - No need to backup GlovalShippingLogging
+2020-09-10 10:16:11,736 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : GlovalShippingLogging
+2020-09-10 10:17:50,637 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : GlovalShippingLogging
+2020-09-10 10:18:06,577 [1] INFO  BackupDB.Program [(null)] - Backup of GlovalShippingLogging started on 2020-09-10 04:48:05.133
+2020-09-10 10:18:07,223 [1] INFO  BackupDB.Program [(null)] - No need to backup GlovalShippingLogging
+2020-09-10 10:18:07,224 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : GlovalShippingLogging
+2020-09-10 10:18:07,224 [1] INFO  BackupDB.Program [(null)] - Backup Process Started for db : InterworldFreightLogging
+2020-09-10 10:18:22,269 [1] ERROR BackupDB.Program [(null)] - A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)

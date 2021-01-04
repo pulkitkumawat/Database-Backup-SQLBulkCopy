@@ -1,0 +1,19 @@
+2020-12-28 09:28:37,663 [1] ERROR BackupDB.Program [(null)] - Cannot open server 'orc-azu-dev-sql01' requested by the login. Client with IP address '42.107.234.39' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+2020-12-28 09:45:27,732 [1] INFO  BackupDB.Program [(null)] - Copying of data done successfully from BankingDB to BankingDBRestore for dbo.Accounts
+2020-12-28 09:45:27,747 [1] INFO  BackupDB.Program [(null)] - Time taken to backup dbo.Accounts is 00:01:44.1133088
+2020-12-28 09:45:27,747 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : BankingDB
+2020-12-28 09:45:27,747 [1] INFO  BackupDB.Program [(null)] - Time taken: 00:01:59.4313986
+2020-12-28 09:46:25,855 [1] ERROR BackupDB.Program [(null)] - Violation of PRIMARY KEY constraint 'PK_Accounts'. Cannot insert duplicate key in object 'dbo.Accounts'. The duplicate key value is (1).
+The statement has been terminated.
+2020-12-28 09:46:25,878 [1] INFO  BackupDB.Program [(null)] - Time taken to backup dbo.Accounts is 00:00:00.0906022
+2020-12-28 09:46:25,879 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : BankingDB
+2020-12-28 09:46:25,879 [1] INFO  BackupDB.Program [(null)] - Time taken: 00:00:00.1664003
+2020-12-28 09:46:57,952 [1] ERROR BackupDB.Program [(null)] - Violation of PRIMARY KEY constraint 'PK_Accounts'. Cannot insert duplicate key in object 'dbo.Accounts'. The duplicate key value is (1).
+The statement has been terminated.
+2020-12-28 09:46:57,972 [1] INFO  BackupDB.Program [(null)] - Time taken to backup dbo.Accounts is 00:00:00.0762802
+2020-12-28 09:46:57,973 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : BankingDB
+2020-12-28 09:46:57,973 [1] INFO  BackupDB.Program [(null)] - Time taken: 00:00:00.1467994
+2020-12-28 09:53:47,629 [1] INFO  BackupDB.Program [(null)] - Copying of data done successfully from BankingDB to BankingDBRestore for dbo.Accounts
+2020-12-28 09:53:47,643 [1] INFO  BackupDB.Program [(null)] - Time taken to backup dbo.Accounts is 00:00:00.0284151
+2020-12-28 09:53:47,644 [1] INFO  BackupDB.Program [(null)] - Backup Process Ended for db : BankingDB
+2020-12-28 09:53:47,644 [1] INFO  BackupDB.Program [(null)] - Time taken: 00:00:00.1169983

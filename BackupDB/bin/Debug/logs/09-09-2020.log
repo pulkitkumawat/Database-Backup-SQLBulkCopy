@@ -1,0 +1,5 @@
+2020-09-09 18:27:29,291 [1] INFO  BackupDB.Program [(null)] - Backup of GlovalShippingLogging started on 2020-09-09 12:57:27.670
+2020-09-09 18:53:58,293 [1] INFO  BackupDB.Program [(null)] - Backup of GlovalShippingLogging started on 2020-09-09 13:23:57.750
+2020-09-09 18:53:58,607 [1] INFO  BackupDB.Program [(null)] - No need to backup GlovalShippingLogging
+2020-09-09 18:54:23,524 [1] INFO  BackupDB.Program [(null)] - Backup of GlovalShippingLogging started on 2020-09-09 13:24:22.960
+2020-09-09 18:54:23,838 [1] INFO  BackupDB.Program [(null)] - No need to backup GlovalShippingLogging
